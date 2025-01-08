@@ -9,7 +9,7 @@ A simple and effective ToDo application to manage your tasks efficiently.
 - Responsive and accessible design.
 
 ## Deployed Site
- [View the live project here] (https://github.com/)
+ [View the live project here](https://github.com/)
 
 ## Getting Started
 *Follow the steps below to clone and run the project locally.*
@@ -68,10 +68,10 @@ cd your-repository-name
  - Implement filtering options (e.g., show completed/incomplete tasks).
  - Save tasks to local storage for persistence.
 
-# ** Contributing **
+# **Contributing**
 Contributions are welcome! Please follow these steps:
 
-# ** License **
+# **License**
 This project is licensed under the MIT License.
 
 # Acknowledgments
