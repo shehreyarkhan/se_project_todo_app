@@ -23,6 +23,20 @@ class Todo {
     this._todoCheckboxEl.id = `todo-${this._data.id}`;
     this._todoLabel.setAttribute("for", `todo-${this._data.id}`);
   }
+
+  _generateDate() {
+    const todoDate = this._todoElement.querySelector(".todo__date");
+    const dueDate = new Date(this._data.date);
+  
+    if (!isNaN(dueDate)) {
+      todoDate.textContent = `Due: ${dueDate.toLocaleString("en-US", {
+        year: "numeric",
+        month: "short",
+        day: "numeric",
+      })}`;
+    }
+  }
+  
   getView() {
     this._todoElement = this._tempalateElement.content
       .querySelector(".todo")
@@ -34,6 +48,7 @@ class Todo {
 
     todoNameEl.textContent = this._data.name;
     
+    this._generateDate();
     this._generateCheckboxEl();
     this._setEventListeners();
     
