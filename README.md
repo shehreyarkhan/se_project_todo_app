@@ -85,4 +85,5 @@ This project is licensed under the MIT License.
 
 # Acknowledgments
 [MDN Web Docs](https://developer.mozilla.org/en-US/) 
+
 [GitHub Pages](https://github.com/shehreyarkhan/se_project_todo_app)
