@@ -31,16 +31,27 @@ cd your-repository-name
 ## Project Structure
 
 📂 your-repository-name
+
 ├── 📂 components
+
 │   ├── FormValidator.js       # Handles form validation
+
 │   └── Todo.js                # Manages todo item functionality
+
 ├── 📂 pages
+
 │   ├── index.html             # Main HTML file
+
 │   ├── index.css              # Styling for the application
+
 │   └── index.js               # Main JavaScript file
+
 ├── 📂 utils
+
 │   └── constants.js           # Contains initial data and settings
+
 └── README.md                  # Project documentation
+
 
 ## Technologies Used
 
