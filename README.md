@@ -33,21 +33,37 @@ cd se_project_todo_app
 📂 se_project_todo_app
 
 ├── 📂 components
+
 │   ├── FormValidator.js       # Handles form validation
+
 │   └── Todo.js  
+
 ├── 📂 images                  # Manages todo item functionality
+
 ├── 📂 pages            
+
 │   ├── index.css              # Styling for the application
+
 │   └── index.js               # Main JavaScript file
+
 ├── 📂 scripts 
+
 │   └── validate.js 
+
 ├── 📂 utils
+
 │   └── constants.js   
+
 ├── 📂 vendor 
+
 │   └── fonts
+
 │   └── fonts.css
+
 │   └── normalize.css 
+
 └── index.html                  # Main HTML file
+
 └── README.md                  
 
 
