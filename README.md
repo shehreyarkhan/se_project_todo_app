@@ -9,7 +9,7 @@ A simple and effective ToDo application to manage your tasks efficiently.
 - Responsive and accessible design.
 
 ## Deployed Site
- [View the live project here](https://github.com/)
+ [View the live project here](https://shehreyarkhan.github.io/se_project_todo_app/)
 
 ## Getting Started
 *Follow the steps below to clone and run the project locally.*
