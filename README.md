@@ -21,36 +21,34 @@ A simple and effective ToDo application to manage your tasks efficiently.
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/shehreyarkhan/se_project_todo_app
 
 2. Navigate to the project directory:
-cd your-repository-name
+cd se_project_todo_app
 
 3. Open index.html in your browser or use a local server (e.g., Live Server in VS Code) to run the application.
 
 ## Project Structure
 
-📂 your-repository-name
+📂 se_project_todo_app
 
 ├── 📂 components
-
 │   ├── FormValidator.js       # Handles form validation
-
-│   └── Todo.js                # Manages todo item functionality
-
-├── 📂 pages
-
-│   ├── index.html             # Main HTML file
-
+│   └── Todo.js  
+├── 📂 images                  # Manages todo item functionality
+├── 📂 pages            
 │   ├── index.css              # Styling for the application
-
 │   └── index.js               # Main JavaScript file
-
+├── 📂 scripts 
+│   └── validate.js 
 ├── 📂 utils
-
-│   └── constants.js           # Contains initial data and settings
-
-└── README.md                  # Project documentation
+│   └── constants.js   
+├── 📂 vendor 
+│   └── fonts
+│   └── fonts.css
+│   └── normalize.css 
+└── index.html                  # Main HTML file
+└── README.md                  
 
 
 ## Technologies Used
@@ -86,5 +84,5 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License.
 
 # Acknowledgments
-[MDN Web Docs] for providing excellent JavaScript and web development resources.
-[GitHub Pages] for hosting the project.
+[MDN Web Docs](https://developer.mozilla.org/en-US/) 
+[GitHub Pages](https://github.com/shehreyarkhan/se_project_todo_app)
