@@ -28,45 +28,6 @@ cd se_project_todo_app
 
 3. Open index.html in your browser or use a local server (e.g., Live Server in VS Code) to run the application.
 
-## Project Structure
-
-📂 se_project_todo_app
-
-├── 📂 components
-
-│   ├── FormValidator.js       # Handles form validation
-
-│   └── Todo.js  
-
-├── 📂 images                  # Manages todo item functionality
-
-├── 📂 pages            
-
-│   ├── index.css              # Styling for the application
-
-│   └── index.js               # Main JavaScript file
-
-├── 📂 scripts 
-
-│   └── validate.js 
-
-├── 📂 utils
-
-│   └── constants.js   
-
-├── 📂 vendor 
-
-│   └── fonts
-
-│   └── fonts.css
-
-│   └── normalize.css 
-
-└── index.html                  # Main HTML file
-
-└── README.md                  
-
-
 ## Technologies Used
 
  - HTML: Semantic and accessible markup.
